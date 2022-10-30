@@ -2,7 +2,7 @@
 ## Using ASUs and integrative taxonomy to characterize marine biogenic reefs
 ### In this file collection you can find supplementary material relative at Chapter 3 of Francesco Mugnai’s PhD thesis.
 #### Please note that all the CSV files have semicolon (;) as column separator.
-1. The sampling location coordinates and metadata are available in Data_S1_Sample_Metadata.csv.
+1. The sampling location coordinates and metadata are available in *Data_S1_Sample_Metadata.csv*.
 2. Spatial-temporal morphological data regarding the vagile fraction ≥ 2 mm (VF2000) are available in Data_S2_Spatial_temporal_morphology.csv.
 3. SIMPER analyses carried out on morphological data of the vagile fraction ≥ 500µm are presented in Data_S3_SIMPER.xlsx.
 4. The final normalized MOTUs table regarding COI sequencing of the whole samples is presented in Data_S4_MOTUs.csv.
